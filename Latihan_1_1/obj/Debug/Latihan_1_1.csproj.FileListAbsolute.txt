@@ -1,0 +1,24 @@
+D:\Mata Kuliah\Semester V\Framework Lanjutan\Selasa_141113678_SitiAisyah\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+D:\Mata Kuliah\Semester V\Framework Lanjutan\Selasa_141113678_SitiAisyah\Latihan_1_1\bin\Debug\Latihan_1_1.exe
+D:\Mata Kuliah\Semester V\Framework Lanjutan\Selasa_141113678_SitiAisyah\Latihan_1_1\bin\Debug\Latihan_1_1.pdb
+D:\Mata Kuliah\Semester V\Framework Lanjutan\Selasa_141113678_SitiAisyah\Latihan_1_1\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+D:\Mata Kuliah\Semester V\Framework Lanjutan\Selasa_141113678_SitiAisyah\Latihan_1_1\obj\Debug\Latihan_1_1.Form1.resources
+D:\Mata Kuliah\Semester V\Framework Lanjutan\Selasa_141113678_SitiAisyah\Latihan_1_1\obj\Debug\Latihan_1_1.Properties.Resources.resources
+D:\Mata Kuliah\Semester V\Framework Lanjutan\Selasa_141113678_SitiAisyah\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+D:\Mata Kuliah\Semester V\Framework Lanjutan\Selasa_141113678_SitiAisyah\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+D:\Mata Kuliah\Semester V\Framework Lanjutan\Selasa_141113678_SitiAisyah\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
+F:\Selasa_141113678_SitiAisyah\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+F:\Selasa_141113678_SitiAisyah\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+F:\Selasa_141113678_SitiAisyah\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_1_1\bin\Debug\Latihan_1_1.exe
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_1_1\bin\Debug\Latihan_1_1.pdb
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_1_1\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_1_1\obj\Debug\Latihan_1_1.Form1.resources
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_1_1\obj\Debug\Latihan_1_1.Properties.Resources.resources
+C:\Users\COMPAG\Downloads\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan-master\Selasa_141112117_MuhammadAffan\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+C:\Users\COMPAG\Documents\Visual Studio 2015\Projects\Selasa_141113066_JanRobertPardede\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+C:\Users\COMPAG\Documents\Visual Studio 2015\Projects\Selasa_141113066_JanRobertPardede\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+C:\Users\COMPAG\Documents\Visual Studio 2015\Projects\Selasa_141113066_JanRobertPardede\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
